@@ -1,4 +1,1 @@
-Esta es una vida maestro
-Edad 25
-
-:D
+Cambios realizados al primer commit!
